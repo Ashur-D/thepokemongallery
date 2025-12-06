@@ -9,6 +9,8 @@ body{
 
 hr{
     border-radius: 30%;
+    padding: 0%;
+    margin: 0%;
 }
 
 /* ###########################################NAV######################################################### */
@@ -54,7 +56,7 @@ nav a{
 }
 
 nav a:hover {
-    border-radius: 0.5vw;
+    border-radius: 0.5vw; /*dont think this does anything */
     opacity: 45%;
 }
 
